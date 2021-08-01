@@ -1,0 +1,44 @@
+body {
+  background: #bbbba9;
+}
+
+.titleCard {
+  background-color: #28282a;
+  align-items: center;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.titleCard p {
+  font-weight: 600;
+  font-size: 22px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.screenContent {
+  display: flex;
+  flex-direction: column;
+  min-height: 30vh;
+  align-items: center;
+  background: #bbbba9;
+  justify-content: center;
+}
+
+.cardContent {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.paginate {
+  justify-content: center;
+  margin-top: 5px;
+  display: flex;
+}
+
+.createButton {
+  font-style: initial;
+}

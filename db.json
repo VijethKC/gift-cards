@@ -1,0 +1,33 @@
+{
+  "giftCards": [
+    {
+      "companyName": "Amazon",
+      "price": "1000",
+      "description": [
+        "Prime Video",
+        " Movies",
+        " KIndle Book"
+      ],
+      "id": 1
+    },
+    {
+      "companyName": "Amazon",
+      "price": "500",
+      "description": [
+        "Prime Video",
+        " Kindle Book"
+      ],
+      "id": 2
+    },
+    {
+      "companyName": "American Express",
+      "price": "1000",
+      "description": [
+        "Hotels",
+        " Air Ticket",
+        " Retail Shops"
+      ],
+      "id": 3
+    }
+  ]
+}

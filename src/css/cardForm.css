@@ -1,0 +1,12 @@
+.labelName {
+  font-weight: bold;
+}
+
+.bi {
+  color: #ef0f0f;
+}
+
+.footerButton {
+  display: flex;
+  justify-content: flex-end;
+}
